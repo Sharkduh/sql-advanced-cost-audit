@@ -1,8 +1,5 @@
--- ==========================================================
--- PROJETO: PIPELINE DE AUDITORIA DE CUSTOS (SQL ADVANCED)
--- ANALISTA: Sharkduh
--- OBJETIVO: Identificar vazamentos de caixa e duplicidade
--- ==========================================================
+-- Projeto SQL
+
 
 -- 1. CRIAÇÃO DOS SCHEMAS (ORGANIZAÇÃO DE CAMADAS)
 CREATE SCHEMA IF NOT EXISTS bronze; -- Dados brutos/Staging
